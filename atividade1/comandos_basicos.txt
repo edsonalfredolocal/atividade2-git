@@ -1,0 +1,6 @@
+Comandos básicos em Bash
+pwd - mostra a diretoria atual
+ls - lista ficheiros e pastas
+cd - muda de diretoria
+touch - cria ficheiros
+cat - mostra conteúdo de ficheiros

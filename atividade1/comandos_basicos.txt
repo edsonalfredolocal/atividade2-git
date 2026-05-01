@@ -4,3 +4,4 @@ ls - lista ficheiros e pastas
 cd - muda de diretoria
 touch - cria ficheiros
 cat - mostra conteúdo de ficheiros
+ALTERACAO FINAL DIFERENTE

@@ -4,4 +4,8 @@ ls - lista ficheiros e pastas
 cd - muda de diretoria
 touch - cria ficheiros
 cat - mostra conteúdo de ficheiros
+feature/final
+ALTERACAO FINAL DIFERENTE
+
 Nova alteração obrigatória para PR
+feature/exercicio

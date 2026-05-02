@@ -11,4 +11,4 @@ echo "Conteúdo da pasta:"
 ls
 
 echo ""
-echo "===== FIM DO SCRIPT ====="
+echo "===== FIM DO SCRIPT ====="#
